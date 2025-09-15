@@ -1,0 +1,21 @@
+{
+  "index": {
+    "items": [
+      {
+        "text": "Home",
+        "url": "index.html",
+        "page": "index"
+      },
+      {
+        "text": "About",
+        "url": "about.html",
+        "page": "about"
+      },
+      {
+        "text": "Contact",
+        "url": "contact.html",
+        "page": "contact"
+      }
+    ]
+  }
+}
